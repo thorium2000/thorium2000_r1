@@ -1,4 +1,3 @@
 echo on
 echo test github
-
-cls
+echo clearscreen verwijderd
